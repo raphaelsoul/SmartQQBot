@@ -14,3 +14,6 @@ cookie
 
 # Mr.Conf
 *.json
+
+#vitualenv
+venv
